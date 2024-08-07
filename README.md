@@ -11,7 +11,7 @@ Here we have project screenshot :
 
 
 Login Page:
-![screenshot](websitesky1.png)
+![screenshot](websitesky.png)
 
 Raw Image:
 ![screenshot](sleepy-mountains-5k-87.jpg)
